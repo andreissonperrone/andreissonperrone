@@ -1,7 +1,6 @@
 ### Olá! Sou o Andreisson Perrone 
 
-- 🔭 Hoje eu trabalho com python com a framework Django
-- 🌱 Estou estudando atualmente a framework Flutter
+- 🌱 Estou estudando atualmente a framework Django
 - 💬 Contate-nos pelo email: andreissonperrmaia10@gmail.com
 
 <div align="center">
