@@ -1,6 +1,6 @@
 ### Olá! Sou o Andreisson Perrone 
 
-- 🌱 Estou estudando atualmente a framework Django
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 💬 Contate-nos pelo email: andreissonperrmaia10@gmail.com
 
 <div align="center">
