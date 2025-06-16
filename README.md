@@ -1,34 +1,43 @@
-<h1 align="center">Olá! Sou o Andreisson Perrone 👋</h1>
+# Olá! Sou o Andreisson Perrone 👋
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📍 Manaus/AM | 💻 Desenvolvedor Python & Web  
-📬 Contato: andreissonperrmaia10@gmail.com
+📍 Manaus/AM | 👨‍💻 Desenvolvedor PHP & Web  
+📫 Contato: andreissonperrmaia10@gmail.com
 
 ---
 
-### 🚀 Tecnologias que uso:
+## 💻 Tecnologias que utilizo atualmente:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projetos em destaque
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreissonperrone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreissonperrone&layout=compact&langs_count=7&theme=dark"/>
-</div>
+🩺 [Sistema de Atendimento PHP - Gestão Médica](https://github.com/andreissonperrone/sistema-atendimento-php)  
+> Sistema completo com cadastro de pacientes, médicos, exames, consultas, dashboards e chat integrado ao WhatsApp.
 
 ---
 
-### 🌐 Redes e Contato
+## 📊 GitHub Stats
 
-<div>
-  <a href="https://instagram.com/hey_perrone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:andreissonperrmaia10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/andreisson-perrone-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+![Andreisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreissonperrone&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreissonperrone&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Redes e Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andreisson_Perrone-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andreisson-perrone-maia/)  
+[![Gmail](https://img.shields.io/badge/Gmail-andreissonperrmaia10@gmail.com-red?style=flat&logo=gmail)](mailto:andreissonperrmaia10@gmail.com)
+
+---
+
+> “Programar é transformar ideias em soluções reais. Sigo evoluindo um commit de cada vez.”
